@@ -1,8 +1,8 @@
 # Дипломная работа к профессии frontend-разработчик (Система бронирования ЖД билетов)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/bd74oa5cako2b884?svg=true)](https://ci.appveyor.com/project/vapanov/fe-dev-diplom)
+[![Build status](https://ci.appveyor.com/api/projects/status/ihhmrebxtuo4qg7x?svg=true)](https://ci.appveyor.com/project/Anna7682/fe-dev-diplom)
 
-WEB VERSION https://valentin-panov.github.io/fe-dev-diplom/
+WEB VERSION https://anna7682.github.io/fe-dev-diplom/
 
 ### Краткое описание задачи дипломной работы:
 
